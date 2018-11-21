@@ -1,0 +1,254 @@
+root@EX4300-48T-001
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/0	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:5b:64:a0	em0	JUN-QFX5100-48S-3AFI-002
+ge-0/0/46	-	c0:42:d0:5e:25:a0	em0	JUN-QFX5100-48S-3AFI-001
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/0	JUN-QFX10016-001
+
+
+root@EX4300-48T-002
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/1	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:5d:e4:a0	em0	JUN-QFX5100-48S-3AFI-003
+ge-0/0/47	-	c0:42:d0:5d:f8:a0	em0	JUN-QFX5100-48S-3AFI-004
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/1	JUN-QFX10016-001
+
+root@EX4300-48T-003
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/2	JUN-QFX10016-002
+ge-0/0/44	-	c0:42:d0:5d:80:a0	em0	JUN-QFX5100-48S-3AFI-006
+ge-0/0/46	-	c0:42:d0:5d:df:a0	em0	JUN-QFX5100-48S-3AFI-005
+ge-0/0/47	-	c0:42:d0:5d:ee:a0	em0	JUN-QFX5100-48S-3AFI-007
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/2	JUN-QFX10016-001
+
+root@EX4300-48T-004
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	bad port	JUN-QFX10016-002
+ge-0/0/45	-	c0:42:d0:5d:85:a0	em0	JUN-QFX5100-48S-3AFI-008
+ge-0/0/44	-	c0:42:d0:5d:99:a0	em0	JUN-QFX5100-48S-3AFI-010
+ge-0/0/46	-	c0:42:d0:5d:f3:a0	em0	JUN-QFX5100-48S-3AFI-009
+ge-0/0/47	-	c0:42:d0:5f:a6:a0	em0	JUN-QFX5100-48S-3AFI-011
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/3	JUN-QFX10016-001
+
+root@EX4300-48T-005
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/4	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:5c:fe:a0	em0	JUN-QFX5100-48S-3AFI-012
+ge-0/0/47	-	c0:42:d0:5d:0d:a0	em0	JUN-QFX5100-48S-3AFI-013
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/4	JUN-QFX10016-001
+
+root@EX4300-48T-006
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/5	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:5d:7b:a0	em0	JUN-QFX5100-48S-3AFI-015
+ge-0/0/47	-	c0:42:d0:5d:a8:a0	em0	JUN-QFX5100-48S-3AFI-014
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/5	JUN-QFX10016-001
+
+root@EX4300-48T-007
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/6	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:5d:08:a0	em0	JUN-QFX5100-48S-3AFI-018
+ge-0/0/47	-	c0:42:d0:5f:b0:a0	em0	JUN-QFX5100-48S-3AFI-016
+ge-0/0/45	-	c0:42:d0:5f:ba:a0	em0	JUN-QFX5100-48S-3AFI-017
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/6	JUN-QFX10016-001
+
+root@EX4300-48T-008
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/7	JUN-QFX10016-002
+ge-0/0/44	-	c0:42:d0:56:c3:a0	em0	JUN-QFX5100-48S-3AFI-021
+ge-0/0/46	-	c0:42:d0:59:d4:a0	em0	JUN-QFX5100-48S-3AFI-022
+ge-0/0/43	-	c0:42:d0:5a:c9:a0	em0	JUN-QFX5100-48S-3AFI-051
+ge-0/0/47	-	c0:42:d0:5d:8a:a0	em0	JUN-QFX5100-48S-3AFI-019
+ge-0/0/45	-	c0:42:d0:5d:9e:a0	em0	JUN-QFX5100-48S-3AFI-020
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/7	JUN-QFX10016-001
+
+root@EX4300-48T-09
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/8	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:59:c5:a0	em0	JUN-QFX5100-48S-3AFI-024
+ge-0/0/46	-	c0:42:d0:59:ca:a0	em0	JUN-QFX5100-48S-3AFI-023
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/8	JUN-QFX10016-001
+
+root@EX4300-48T-10
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/9	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:59:de:a0	em0	JUN-QFX5100-48S-3AFI-025
+ge-0/0/47	-	c0:42:d0:59:f2:a0	em0	JUN-QFX5100-48S-3AFI-026
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/9	JUN-QFX10016-001
+
+root@EX4300-48T-11
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/10	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:17:77:a0	em0	JUN-QFX5100-48S-3AFI-028
+ge-0/0/46	-	c0:42:d0:18:da:a0	em0	JUN-QFX5100-48S-3AFI-029
+ge-0/0/44	-	c0:42:d0:59:93:a0	em0	JUN-QFX5100-48S-3AFI-027
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/10	JUN-QFX10016-001
+
+root@EX4300-48T-12
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/11	JUN-QFX10016-002
+ge-0/0/44	-	c0:42:d0:05:b6:80	em0	JUN-QFX5100-48S-3AFI-030
+ge-0/0/46	-	c0:42:d0:18:49:a0	em0	JUN-QFX5100-48S-3AFI-031
+ge-0/0/47	-	c0:42:d0:59:e8:a0	em0	JUN-QFX5100-48S-3AFI-032
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/11	JUN-QFX10016-001
+
+
+root@EX4300-48T-13
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/12	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:59:0c:a0	em0	JUN-QFX5100-48S-3AFI-034
+ge-0/0/46	-	c0:42:d0:5b:91:a0	em0	JUN-QFX5100-48S-3AFI-033
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/12	JUN-QFX10016-001
+
+root@EX4300-48T-14
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/13	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:5f:ce:a0	em0	JUN-QFX5100-48S-3AFI-036
+ge-0/0/47	-	c0:42:d0:5f:f6:a0	em0	JUN-QFX5100-48S-3AFI-035
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/13	JUN-QFX10016-001
+
+root@EX4300-48T-15
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/14	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:5f:e2:a0	em0	JUN-QFX5100-48S-3AFI-037
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/14	JUN-QFX10016-001
+
+root@EX4300-48T-16
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/15	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:5f:e7:a0	em0	JUN-QFX5100-48S-3AFI-039
+ge-0/0/44	-	c0:42:d0:5f:ec:a0	em0	JUN-QFX5100-48S-3AFI-038
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/15	JUN-QFX10016-001
+
+root@EX4300-48T-17
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/16	JUN-QFX10016-002
+ge-0/0/47	-	30:b6:4f:4e:1c:a0	em0	JUN-QFX5100-48S-3AFI-042
+ge-0/0/46	-	c0:42:d0:59:cf:a0	em0	JUN-QFX5100-48S-3AFI-041
+ge-0/0/45	-	c0:42:d0:a0:00:00	em0	JUN-QFX5100-48S-3AFI-040
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/16	JUN-QFX10016-001
+
+root@EX4300-48T-18
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/17	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:58:12:a0	em0	JUN-QFX5100-48S-3AFI-043
+ge-0/0/45	-	c0:42:d0:5f:d8:a0	em0	JUN-QFX5100-48S-3AFI-045
+ge-0/0/47	-	c0:42:d0:a0:05:00	em0	JUN-QFX5100-48S-3AFI-044
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/17	JUN-QFX10016-001
+
+root@EX4300-48T-19
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/18	JUN-QFX10016-002
+ge-0/0/11	-	18:db:f2:07:50:ea	18:db:f2:07:50:ea
+ge-0/0/46	-	c0:42:d0:59:98:a0	em0	JUN-QFX5100-48S-3AFI-048
+ge-0/0/47	-	c0:42:d0:5f:d3:a0	em0	JUN-QFX5100-48S-3AFI-046
+ge-0/0/44	-	c0:42:d0:5f:dd:a0	em0	JUN-QFX5100-48S-3AFI-047
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/18	JUN-QFX10016-001
+
+root@EX4300-48T-020
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/19	JUN-QFX10016-002
+ge-0/0/43	-	c0:42:d0:5a:9c:a0	em0	JUN-QFX5100-48S-3AFI-054
+ge-0/0/44	-	c0:42:d0:5a:a1:a0	em0	JUN-QFX5100-48S-3AFI-053
+ge-0/0/47	-	c0:42:d0:5a:b0:a0	em0	JUN-QFX5100-48S-3AFI-049
+ge-0/0/46	-	c0:42:d0:5a:bf:a0	em0	JUN-QFX5100-48S-3AFI-050
+ge-0/0/45	-	c0:42:d0:5a:c4:a0	em0	JUN-QFX5100-48S-3AFI-052
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/19	JUN-QFX10016-001
+
+root@EX4300-48T-021
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/20	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:56:a5:a0	em0	JUN-QFX5100-48S-3AFI-056
+ge-0/0/46	-	c0:42:d0:56:aa:a0	em0	JUN-QFX5100-48S-3AFI-057
+ge-0/0/1	-	c0:42:d0:57:4a:a0	em0	JUN-QFX5100-48S-3AFI-055
+ge-0/0/45	-	c0:42:d0:5a:b5:a0	em0	JUN-QFX5100-48S-3AFI-058
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/20	JUN-QFX10016-001
+
+
+root@EX4300-48T-022
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/21	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:1a:ce:a0	em0	JUN-QFX5100-48S-3AFI-060
+ge-0/0/46	-	c0:42:d0:57:5e:a0	em0	JUN-QFX5100-48S-3AFI-061
+ge-0/0/45	-	c0:42:d0:57:68:a0	em0	JUN-QFX5100-48S-3AFI-062
+ge-0/0/44	-	c0:42:d0:5a:ab:a0	em0	JUN-QFX5100-48S-3AFI-059
+ge-0/0/43	-	c0:42:d0:5e:b6:a0	em0	JUN-QFX5100-48S-3AFI-063
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/21	JUN-QFX10016-001
+
+root@EX4300-48T-023
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/22	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:56:b4:a0	em0	JUN-QFX5100-48S-3AFI-067
+ge-0/0/46	-	c0:42:d0:5e:c0:a0	em0	JUN-QFX5100-48S-3AFI-066
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/22	JUN-QFX10016-001
+
+root@EX4300-48T-024
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/23	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:56:b9:a0	em0	JUN-QFX5100-48S-3AFI-069
+ge-0/0/46	-	c0:42:d0:5e:d4:a0	em0	JUN-QFX5100-48S-3AFI-070
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/23	JUN-QFX10016-001
+
+root@EX4300-48T-025
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/24	JUN-QFX10016-002
+ge-0/0/46	-	c0:42:d0:56:c8:a0	em0	JUN-QFX5100-48S-3AFI-074
+ge-0/0/45	-	c0:42:d0:56:cd:a0	em0	JUN-QFX5100-48S-3AFI-075
+ge-0/0/47	-	c0:42:d0:5e:b1:a0	em0	JUN-QFX5100-48S-3AFI-073
+ge-0/0/43	-	c0:42:d0:5e:cf:a0	em0	JUN-QFX5100-48S-3AFI-071
+ge-0/0/44	-	c0:42:d0:5f:bf:a0	em0	JUN-QFX5100-48S-3AFI-072
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/24	JUN-QFX10016-001
+
+root@EX4300-48T-026
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/25	JUN-QFX10016-002
+ge-0/0/46	-	28:a2:4b:44:7e:60	em0	JUN-QFX5100-48S-3AFI-076
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/25	JUN-QFX10016-001
+
+root@EX4300-48T-027
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/26	JUN-QFX10016-002
+ge-0/0/46	-	64:c3:d6:7c:7d:e0	em0	JUN-QFX5100-48S-3AFI-077
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/26	JUN-QFX10016-001
+
+root@EX4300-48T-028
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/27	JUN-QFX10016-002
+ge-0/0/46	-	64:c3:d6:7c:37:e0	em0	JUN-QFX5100-48S-3AFI-078
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/27	JUN-QFX10016-001
+
+root@EX4300-48T-029
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/28	JUN-QFX10016-002
+ge-0/0/46	-	64:c3:d6:7c:3c:e0	em0	JUN-QFX5100-48S-3AFI-081
+ge-0/0/47	-	64:c3:d6:7c:41:e0	em0	JUN-QFX5100-48S-3AFI-080
+ge-0/0/45	-	64:c3:d6:7c:a0:e0	em0	JUN-QFX5100-48S-3AFI-079
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/28	JUN-QFX10016-001
+
+root@EX4300-48T-030
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/29	JUN-QFX10016-002
+ge-0/0/47	-	c0:42:d0:18:8f:a0	em0	JUN-QFX5100-48S-3AFI-103
+ge-0/0/46	-	c0:42:d0:5e:c5:a0	em0	JUN-QFX5100-48S-3AFI-064
+ge-0/0/45	-	c0:42:d0:a0:37:00	em0	JUN-QFX5100-48S-3AFI-104
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/29	JUN-QFX10016-001
+
+root@EX4300-48T-031
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/30	JUN-QFX10016-002
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/30	JUN-QFX10016-001
+I think backup Routing engines for spines connected
+
+root@EX4300-48T-032
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+ge-0/0/46	-	08:b2:58:36:d2:f6	em0	JUN-QFX10016-002
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/31	JUN-QFX10016-002
+ge-0/0/47	-	f0:4b:3a:62:f1:22	em0	JUN-QFX10016-001
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/31	JUN-QFX10016-001
+
+root@EX4300-48T-33
+Local Interface	Parent Interface	Chassis Id	Port info	System Name
+xe-0/2/1	ae0	08:b2:58:36:d2:f6	xe-4/0/32	JUN-QFX10016-002
+ge-0/0/40	-	c0:42:d0:a0:1e:00	em0	JUN-QFX5100-48S-3AFI-111
+ge-0/0/41	-	c0:42:d0:a0:23:00	em0	JUN-QFX5100-48S-3AFI-112
+xe-0/2/0	ae0	f0:4b:3a:62:f1:22	xe-4/0/32	JUN-QFX10016-001

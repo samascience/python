@@ -1,0 +1,16 @@
+import os,csv,argparse
+import pandas as pd
+parser = pd.DataFrame()
+data= pd.read_excel('IP.xlsx', sheet_name="Sheet2")
+df=pd.DataFrame(data)
+i = 0
+for index,row in df.iterrows():
+    r1 = row.values
+    #r2 = r1.str()
+    #print r1[0]
+    #print("Printed the value")
+    str1 = url = "https://"+r1[0]+"/restapi/config/allow_plaintext_logins/"
+	#str1 = "curl  -X PATCH -H "Content-Type: application/json-patch+json"  --data [{\"op\":\"replace\",\"path\":\"\/gateway\",\"value\":\""+r1[0]+"\"},{\"op\":\"replace\",\"path\":\"\/netmask\",\"value\":\"255.255.248.0\"},{\"op\":\"replace\",\"path\":\"\/ip_address\",\"value\":\"10.137.8.1\"}] --digest "http://admin:1234@"+r1[0]+"/restapi/network/wired/""
+    #str2 = "curl -u admin:1234 -X PUT -H "X-CSRF: x" --data "value=false" --digest http://"+r1[0]+"/restapi/network/same_subnet_only/"
+    #str3 = " \n "
+    print  str1
